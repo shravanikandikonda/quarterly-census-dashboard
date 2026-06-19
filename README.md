@@ -75,3 +75,23 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ---
+## What I learned from this project
+
+- Working with real-world datasets
+- Building interactive dashboards using Streamlit
+- Data cleaning and transformation using Pandas
+- Creating meaningful insights from raw data
+- Structuring a complete data analytics project
+
+---
+
+## Connect
+
+GitHub: https://github.com/shravanikandikonda  
+LinkedIn: add your link here
+
+---
+
+## Author
+
+Built by Shravani Kandikonda
