@@ -1,65 +1,87 @@
 # Quarterly Census Employment and Wage Dashboard
 
-An interactive dashboard built using Python, Pandas, and Streamlit to analyze Quarterly Census Employment and Wage data.
+This is an interactive data analysis dashboard built using **Python, Pandas, and Streamlit**.  
+It helps explore and understand employment and wage trends using Quarterly Census datasets in a simple visual way.
 
-## Live Demo
+---
 
-Add your Streamlit link here after deployment.
+##  Live Demo
 
-## Features
+https://quarterly-census-dashboard.streamlit.app/
 
-- Upload and analyze CSV datasets
-- Employment trend analysis across years
-- Industry-wise employment insights
+---
+
+##  What this project does
+
+This dashboard makes it easy to explore large employment datasets without needing to manually analyze raw CSV files.
+
+With just a file upload, you can:
+- Understand employment trends over the years
+- Compare industries and their growth
+- Analyze wages across different regions
+- Filter and explore data interactively
+- Get quick statistical summaries
+
+---
+
+##  Features
+
+- Upload your own CSV dataset
+- Interactive employment trend visualization
+- Year-wise analysis of data
+- Industry and region-based insights
 - Wage analysis by area
-- Year-based filtering
-- Interactive data exploration
-- Statistical summaries for numeric columns
+- Dynamic filtering options
+- Raw data explorer for deep inspection
+- Automatic summary statistics for numeric columns
 
-## Technologies Used
+---
 
-- Python
-- Pandas
-- Streamlit
-- Git
-- GitHub
+##  Tech Stack
+
+- Python 
+- Pandas 
+- Streamlit 
+- Git & GitHub
+
+---
 
 ## Dashboard Preview
+
+Here’s a quick look at the dashboard in action:
+
 <p align="center">
-  <img src="screenshots/Dashboard-home.png" width="450">
-  <img src="screenshots/After uploading the file.png" width="450">
-  <img src="screenshots/employment trend by year.png" width="450">
-   <img src="screenshots/year based analysis.png" width="450">
-  <img src="screenshots/top areas by employment.png" width="450">
-  <img src="screenshots/interactive data explorer.png" width="450">
-  <img src="screenshots/raw data.png" width="450">
- 
+
+<img src="screenshots/dashboard-home.png" width="420">
+<img src="screenshots/after-uploading-file.png" width="420">
+<img src="screenshots/employment-trend-by-year.png" width="420">
+<img src="screenshots/year-based-analysis.png" width="420">
+<img src="screenshots/top-areas-by-employment.png" width="420">
+<img src="screenshots/interactive-data-explorer.png" width="420">
+<img src="screenshots/raw-data.png" width="420">
+
 </p>
 
-## How to Run
+---
 
-Clone the repository:
+##  How to run this project locally
+
+If you want to run this on your own system:
 
 ```bash
 git clone https://github.com/shravanikandikonda/quarterly-census-dashboard.git
-```
-
-Install dependencies:
-
-```bash
+cd quarterly-census-dashboard
 pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
 streamlit run app.py
-```
 
-## Dataset
+---
+
+##  Dataset
 
 The dashboard is designed for Quarterly Census Employment and Wage datasets and can be used to explore employment, wage, industry, and regional trends.
+ ---
 
 ## Author
 
 Shravani Kandikonda
+---
