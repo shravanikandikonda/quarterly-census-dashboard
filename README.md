@@ -59,6 +59,8 @@ Here’s a quick look at the dashboard in action:
 <img src="screenshots/top areas by employment.png" width="420">
 <img src="screenshots/interactive data explorer.png" width="420">
 <img src="screenshots/raw data.png" width="420">
+<img src="screenshots/error.png" width="420">
+
 
 </p>
 
