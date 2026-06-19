@@ -53,7 +53,7 @@ Here’s a quick look at the dashboard in action:
 <p align="center">
 
 <img src="screenshots/Dashboard-home.png" width="420">
-<img src="screenshots/After uploading file.png" width="420">
+<img src="screenshots/After uploading the file.png" width="420">
 <img src="screenshots/employment trend by year.png" width="420">
 <img src="screenshots/year based analysis.png" width="420">
 <img src="screenshots/top areas by employment.png" width="420">
