@@ -30,9 +30,9 @@ Add your Streamlit link here after deployment.
   <img src="screenshots/After uploading the file.png" width="450">
   <img src="screenshots/employment trend by year.png" width="450">
   <img src="screenshots/top areas by employment.png" width="450">
-  <img src="screenshots/year based analysis.png" width="450">
   <img src="screenshots/interactive data explorer.png" width="450">
   <img src="screenshots/raw data.png" width="450">
+  <img src="screenshots/year based analysis.png" width="450">
 </p>
 
 ## How to Run
