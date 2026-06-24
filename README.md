@@ -90,7 +90,7 @@ streamlit run app.py
 ## Connect
 
 GitHub: https://github.com/shravanikandikonda  
-LinkedIn: add your link here
+LinkedIn: www.linkedin.com/in/shravani-kandikonda
 
 ---
 
